@@ -1,19 +1,19 @@
 nginx
 
-Template and script to monitor nginx web server.
+# Template and script to monitor nginx web server.
 
-Monitoring Items
+# Monitoring Items
 
-Nginx Waiting
-Nginx Writing
-Nginx Requests
-Nginx Reading
-Nginx Active
-Nginx Handled
-Nginx Accepted
+* Nginx Waiting
+* Nginx Writing
+* Nginx Requests
+* Nginx Reading
+* Nginx Active
+* Nginx Handled
+* Nginx Accepted
 
 
-CONFIGURATION:-
+#CONFIGURATION:-
 
 1. First we configure nginx so that nginx provide is the details:
        a. Copy the "status.conf" to the "/etc/nginx/sites-enable" directory.
